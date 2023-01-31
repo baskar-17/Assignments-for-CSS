@@ -1,0 +1,4 @@
+background:
+linear-gradient(19deg, #fda3d7 0%, #f9dc7d 100%);
+
+Primary color #30c23c

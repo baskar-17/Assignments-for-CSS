@@ -1,0 +1,10 @@
+circle colors:
+red - #ffa0a08a
+green - #62e1b98a
+yellow - #ffc9789a
+
+percentage colors:
+red: rgba(164, 25, 25, 0.51);
+green: rgba(45, 93, 15, 0.569);
+yellow: rgba(120, 80, 16, 0.526);
+
